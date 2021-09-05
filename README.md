@@ -22,5 +22,5 @@ LeetCode solutions in Python language. Will be updated with YouTube explanation 
 
 | LeetCode Problem | Python Solution | Explanation Video |
 | ---------------- | --------------- | ----------------- |
-| (empty)          | (empty)         | (empty)           |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/42.%20Trapping%20Rain%20Water.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/nwdM2htNgNw "Watch Explanation on YouTube") |
 
