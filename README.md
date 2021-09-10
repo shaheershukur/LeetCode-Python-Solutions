@@ -24,4 +24,5 @@ LeetCode solutions in Python language. Will be updated with YouTube explanation 
 | LeetCode Problem | Python Solution | Explanation Video |
 | ---------------- | --------------- | ----------------- |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/42.%20Trapping%20Rain%20Water.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/nwdM2htNgNw "Watch Explanation on YouTube") |
+| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/84.%20Largest%20Rectangle%20in%20Histogram.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/tkiM_maIkv4 "Watch Explanation on YouTube") |
 
