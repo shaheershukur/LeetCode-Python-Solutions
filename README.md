@@ -12,6 +12,7 @@ LeetCode solutions in Python language. Will be updated with YouTube explanation 
 | ---------------- | --------------- | ----------------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/1.%20Two%20Sum.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/LVSE4e4IYmE "Watch Explanation on YouTube") |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/169.%20Majority%20Element.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/2wX-X76THKI "Watch Explanation on YouTube") |
+| [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/657.%20Robot%20Return%20to%20Origin.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/a2dE7K14-MA "Watch Explanation on YouTube") |
 
 ### Medium LeetCode Problems:
 
