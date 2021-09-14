@@ -17,6 +17,7 @@ LeetCode solutions in Python language. Will be updated with YouTube explanation 
 
 | LeetCode Problem | Python Solution | Explanation Video |
 | ---------------- | --------------- | ----------------- |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/62.%20Unique%20Paths.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/2Ws2ME9yoEc "Watch Explanation on YouTube") |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/152.%20Maximum%20Product%20Subarray.py "View Python Solution") | [:film_strip:.youtube](https://youtu.be/hbzPkxYfGbk "Watch Explanation on YouTube") |
 
 ### Hard LeetCode Problems:
