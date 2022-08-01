@@ -1,10 +1,10 @@
-# LeetCode-Python-Solutions
-LeetCode solutions in Python language. Will be updated with YouTube explanation videos as I go forward solving the LeetCode problems.
+# LeetCode-Solutions
+LeetCode solutions in Python / JavaScript languages along with YouTube explanation videos. Will be updating as I go forward solving the LeetCode problems.
 
 ### Contents
- - [Easy LeetCode Problems](#easy-leetcode-problems) 
- - [Medium LeetCode Problems](#medium-leetcode-problems) 
- - [Hard LeetCode Problems](#hard-leetcode-problems) 
+ - [Easy LeetCode Problems](#easy-leetcode-problems)
+ - [Medium LeetCode Problems](#medium-leetcode-problems)
+ - [Hard LeetCode Problems](#hard-leetcode-problems)
 
 ### Easy LeetCode Problems:
 
