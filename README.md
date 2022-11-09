@@ -1,5 +1,5 @@
-# LeetCode-Solutions
-LeetCode solutions in Python / JavaScript languages along with YouTube explanation videos. Will be updating as I go forward solving the LeetCode problems.
+# LeetCode-Python-Solutions
+LeetCode solutions in Python language along with YouTube explanation videos.
 
 ### Contents
  - [Easy LeetCode Problems](#easy-leetcode-problems)
@@ -20,6 +20,7 @@ LeetCode solutions in Python / JavaScript languages along with YouTube explanati
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/ "View Problem Statement On LeetCode")                                               | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/62.%20Unique%20Paths.py "View Solution Code")                                 | [:film_strip:.youtube](https://youtu.be/2Ws2ME9yoEc "Watch Explanation on YouTube") |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/ "View Problem Statement On LeetCode")                      | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/152.%20Maximum%20Product%20Subarray.py "View Solution Code")                  | [:film_strip:.youtube](https://youtu.be/hbzPkxYfGbk "Watch Explanation on YouTube") |
+| [221. Maximal Square](https://leetcode.com/problems/maximal-square/ "View Problem Statement On LeetCode")                                          | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/221.%20Maximal%20Square.py "View Solution Code")                              | [:film_strip:.youtube](https://youtu.be/cqPKYGrnXyw "Watch Explanation on YouTube") |
 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ "View Problem Statement On LeetCode") | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.py "View Solution Code") | [:film_strip:.youtube](https://youtu.be/gfknIRBvMLE "Watch Explanation on YouTube") |
 
 ### Hard LeetCode Problems:
