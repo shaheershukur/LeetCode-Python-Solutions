@@ -1,7 +1,7 @@
 # LeetCode-Python-Solutions
 LeetCode solutions in Python language along with YouTube explanation videos.
 
-### Contents
+- [LeetCode-Python-Solutions](#leetcode-python-solutions)
     - [Easy LeetCode Problems:](#easy-leetcode-problems)
     - [Medium LeetCode Problems:](#medium-leetcode-problems)
     - [Hard LeetCode Problems:](#hard-leetcode-problems)
