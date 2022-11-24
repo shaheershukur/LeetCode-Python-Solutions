@@ -2,9 +2,11 @@
 LeetCode solutions in Python language along with YouTube explanation videos.
 
 ### Contents
- - [Easy LeetCode Problems](#easy-leetcode-problems)
- - [Medium LeetCode Problems](#medium-leetcode-problems)
- - [Hard LeetCode Problems](#hard-leetcode-problems)
+- [LeetCode-Python-Solutions](#leetcode-python-solutions)
+    - [Contents](#contents)
+    - [Easy LeetCode Problems:](#easy-leetcode-problems)
+    - [Medium LeetCode Problems:](#medium-leetcode-problems)
+    - [Hard LeetCode Problems:](#hard-leetcode-problems)
 
 ### Easy LeetCode Problems:
 
@@ -20,6 +22,7 @@ LeetCode solutions in Python language along with YouTube explanation videos.
 
 | LeetCode Problem                                                                                                                                   | Solution Code                                                                                                                                                                                   | Explanation Video                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/ "View Problem Statement On LeetCode")                                         | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/56.%20Merge%20Intervals.py "View Solution Code")                              | [:film_strip:.youtube](https://youtu.be/iD68J9FdfVg "Watch Explanation on YouTube") |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/ "View Problem Statement On LeetCode")                                               | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/62.%20Unique%20Paths.py "View Solution Code")                                 | [:film_strip:.youtube](https://youtu.be/2Ws2ME9yoEc "Watch Explanation on YouTube") |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/ "View Problem Statement On LeetCode")                      | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/152.%20Maximum%20Product%20Subarray.py "View Solution Code")                  | [:film_strip:.youtube](https://youtu.be/hbzPkxYfGbk "Watch Explanation on YouTube") |
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/ "View Problem Statement On LeetCode")                                          | [:page_facing_up:.python](https://github.com/shaheershukur/LeetCode-Python-Solutions/blob/main/Python%20Solutions/221.%20Maximal%20Square.py "View Solution Code")                              | [:film_strip:.youtube](https://youtu.be/cqPKYGrnXyw "Watch Explanation on YouTube") |
